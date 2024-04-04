@@ -100,7 +100,7 @@ img {
 <div class="generalRules">
 
 [comment]: # (Title)
-<h1> This is the title of your choice. </h1>
+<h1> Evaluating the Impact of Attempts to Correct Health Misinformation on Social Media. </h1>
 
 [comment]: # (Image below title if needed.)
 <div class="titleImage">
